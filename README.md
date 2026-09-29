@@ -39,3 +39,7 @@ Description mode occasionally picks the wrong layer; when it's unsure, the skill
 - **Data sent out**: description mode sends your request, page names, and layer names to TypeSafe. Before using it, confirm your company allows sending design file content to outside services.
 - **Read-only**: it only clicks pages, layers, expand carets, the search box, and the Properties tab. It never edits the file, shares it, or comments.
 - The skill assumes a View seat (Dev Mode locked). If you have Dev Mode access, Figma MCP can give you more (CSS, variables).
+
+## License
+
+[MIT](LICENSE)

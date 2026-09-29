@@ -39,3 +39,7 @@ Claude Code plugin。Figma MCP 額度不夠，或帳號只有 View seat 時，�
 - **資料外送**：描述模式會把你的要求、頁面名和圖層名送到 TypeSafe。使用前先確認公司允許把設計稿內容送到外部服務。
 - **唯讀**：只會點頁面、圖層、展開箭頭、搜尋框和 Properties 分頁，不會改檔案、分享或留言。
 - 這個 skill 預設使用者是 View seat（Dev Mode 被鎖）。有 Dev Mode 權限的話，Figma MCP 能拿到更多資訊（CSS、variables）。
+
+## 授權
+
+[MIT](LICENSE)
