@@ -1,0 +1,17 @@
+{
+  "name": "figma-view",
+  "owner": {
+    "name": "Jonathan Tang"
+  },
+  "metadata": {
+    "description": "A Claude Code plugin for reading specs from Figma designs"
+  },
+  "plugins": [
+    {
+      "name": "figma-view",
+      "source": "./plugins/figma-view",
+      "description": "Read Figma layer specs (size, auto layout, text style, colors) and screenshots from the Figma web app without spending Figma MCP quota. Works with a View seat.",
+      "version": "0.1.0"
+    }
+  ]
+}

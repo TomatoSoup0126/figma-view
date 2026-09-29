@@ -1,0 +1,8 @@
+{
+  "name": "figma-view",
+  "description": "Read Figma layer specs (size, auto layout, text style, colors) and screenshots from the Figma web app without spending Figma MCP quota. Works with a View seat.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jonathan Tang"
+  }
+}
