@@ -12,7 +12,7 @@ Claude Code plugin。Figma MCP 額度不夠，或帳號只有 View seat 時，�
 ## 安裝
 
 ```
-/plugin marketplace add <org>/figma-view
+/plugin marketplace add TomatoSoup0126/figma-view
 /plugin install figma-view@figma-view
 ```
 

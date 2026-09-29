@@ -12,7 +12,7 @@ Available: Layout (size, radius, border, auto layout direction, Hug/Fill, Gap, p
 ## Install
 
 ```
-/plugin marketplace add <org>/figma-view
+/plugin marketplace add TomatoSoup0126/figma-view
 /plugin install figma-view@figma-view
 ```
 
